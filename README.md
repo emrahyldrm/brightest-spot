@@ -1,3 +1,3 @@
 
-Finding first three brightest spot in video frame
+Finding first three brightest spots in video frame
 Opencv
